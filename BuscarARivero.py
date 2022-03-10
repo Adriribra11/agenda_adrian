@@ -1,3 +1,5 @@
+#autor: Adrian Rivero Bravo
+#fecha de modificación: 10-03-2022
 #Pregunta a quien quieres buscar.
 #Si lo encuentra lo muestra. Si no dice que el contacto no existe y que lo agregemos desde el menú
 
